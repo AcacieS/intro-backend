@@ -129,4 +129,20 @@ ex (so here we want register user): \
     "password":"123456"
 }
 ```
+9. Send
+has an id and a status code: Success usually
+
+# MongoDB
+Will show how data is stored in mongoDB;
+Get to Project intro-to-backend: Browser collections \
+test /users
+
+# Login
+in user.controller.js: loginUser \
+we reuse user.model.js \
+
+import bcrypt from "bcrypt"; \
+for the password: can hash password and compare it \
+npm i bcrypt
+
 
