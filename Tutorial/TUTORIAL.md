@@ -145,4 +145,8 @@ import bcrypt from "bcrypt"; \
 for the password: can hash password and compare it \
 npm i bcrypt
 
+# Logout
+# CRUD
+create, read, update, delete
+
 
